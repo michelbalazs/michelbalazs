@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Michel Balazs>
+### Hi there 👋, I'm Michel Balazs
 
 
 # <h4>💻 Tech Stack:</h4>
