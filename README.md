@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Michel Balazs
 
-
+<!--
 # <h4>💻 Tech Stack:</h4>
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -29,7 +29,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=M&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
+
 
 >>>Others Badges https://github.com/iuricode/readme-template/blob/main/badges/badges.md
 
