@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Michel Balazs
+### 👋 Olá!, Sou Michel Balazs, Profissional de Cloud
+### 👀 Foco Infra / Cloud
+
+Instagram 👉 @balazs.br
+LinkedIn  👉 https://www.linkedin.com/in/michel-balazs-4646b663/
 
 <!--
 # <h4>💻 Tech Stack:</h4>
