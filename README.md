@@ -9,5 +9,5 @@
 - Blog  👉 https://www.gearit.com.br/blog
 
 <!--
-Esse repositório contém as informações do meu readme para apresentar informações na página principal do meu perfil no github.
+Esse repositório contém as informações para apresentação no github.
 -->
