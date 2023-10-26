@@ -3,7 +3,7 @@
 ###### <center> Atuando há 15 anos com Tecnologia. </center>
 
 
-###### <center> | Microsoft Azure | GoogleCloud | IaC | DevOps | Linux | Containers | </center>
+###### <center> | Microsoft Azure | GoogleCloud | OCI | IaC | DevOps | Linux | </center>
 ---
 - LinkedIn  👉 https://www.linkedin.com/in/michel-balazs-4646b663/
 - Blog  👉 https://www.gearit.com.br/blog
